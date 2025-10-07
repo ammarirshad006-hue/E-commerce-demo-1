@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\console\\AspNetCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\sellerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\sellerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|d:\\console\\aspnetcorewebapi\\aspnetcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4D4FDF0-C0BF-4A01-BD3C-C6309F72A992}|AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj|solutionrelative:aspnetcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\User.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:03:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellerProduct.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\SellerProduct.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\SellerProduct.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\SellerProduct.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\SellerProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:03:29.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Seller.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Seller.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:03:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Role.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Role.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:03:11.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcomDbContext.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\EcomDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\EcomDbContext.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\EcomDbContext.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\EcomDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:48:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Controllers\\ProductApiController.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:23:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\appsettings.json",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T18:05:12.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Program.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:50:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:02:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:02:25.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:02:15.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Customer.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:09:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:09:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\console\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspNetCoreWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T16:50:19.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
